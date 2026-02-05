@@ -6,11 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image: /images/santa_marta.png
+  image: /assets/images/santa_marta.png
   # overlay_filter: linear-gradient('#AAAAAA00', '#AAAAAA00', '#AAAAAAAA')
   caption: "Sierra Nevada de Santa Marta, Colombia (© Ignacio Quintero)"
 ---
 
 
-**About our research**
-
+We use...
