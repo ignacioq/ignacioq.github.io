@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Welcome to Quintero's research lab"
 author_profile: true
