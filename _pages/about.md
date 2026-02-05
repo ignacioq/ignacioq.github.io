@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Welcome to our research website"
+title: "Welcome to Quintero's research lab"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 header:
-  image: /images/santa_marta.jpg
-  overlay_filter: linear-gradient('#AAAAAA00', '#AAAAAA00', '#AAAAAAAA')
-  caption: "Sierra Nevada de Santa Marta, Colombia (by Ignacio Quintero)"
+  image: /images/santa_marta.png
+  # overlay_filter: linear-gradient('#AAAAAA00', '#AAAAAA00', '#AAAAAAAA')
+  caption: "Sierra Nevada de Santa Marta, Colombia (© Ignacio Quintero)"
 ---
 
 
-**Markdown generator**
+**About our research**
 
