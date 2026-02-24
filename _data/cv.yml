@@ -1,189 +1,774 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Ignacio Quintero Mächler
+  location: Institut de Biologie de l'École Normale Supérieure, École Normale Supérieure, Paris, France
+  email: ignacio.quintero@cnrs.fr
+  website: https://ignacioq.github.io
   social_networks:
-    - network: X
-      username: AlbertEinstein
+    - network: Google Scholar
+      username: https://scholar.google.fr/citations?user=q4J3GXAAAAAJ&hl=en
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+      username: ignacioq
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
+    professional experience:
+      - company: Institut de Biologie de l'École Normale Supérieure
+        position: Chargé de Recherche CNRS
+        date:
+        start_date: 2023-10
+        end_date: present
+        location: Paris, France
+      - company: (Dr. H. Morlon lab) Institut de Biologie de l'École Normale Supérieure
+        position: CNRS postdoctoral fellow
+        date:
+        start_date: 2022-08
+        end_date: 2023-09
+        location: Paris, France
+      - company: (Dr. H. Morlon lab) Institut de Biologie de l'École Normale Supérieure
+        position: Marie Skłodowska-Curie postdoctoral fellow
+        date:
+        start_date: 2020-06
+        end_date: 2022-08
+        location: Paris, France
+      - company: (Dr. H. Morlon lab) Institut de Biologie de l'École Normale Supérieure
+        position: CNRS postdoctoral fellow 
+        date:
+        start_date: 2019-01
+        end_date: 2020-05
+        location: Paris, France
+      - company: Yale University
+        position: Statistics Consultant, Yale University Library
+        date:
+        start_date: 2017-02
+        end_date: 2018-10
+        location: New Haven, CT, USA
+    education:
+      - institution: Yale University 
+        area: Ecology and Evolutionary Biology (Dr. W. Jetz lab)
+        degree: PhD
+        grade:
+        date:
+        start_date: 2013-09
+        end_date: 2018-11
+        location: New Haven, CT, USA
+      - institution: Yale University 
+        area: Ecology and Evolutionary Biology (Dr. W. Jetz lab)
+        degree: MS
+        grade:
+        date:
+        start_date: 2013-09
+        end_date: 2016-05
+        location: New Haven, CT, USA
+      - institution: Universidad de los Andes 
+        area: Biology  (Dr. C. D. Cadena lab)
+        degree: B.Sc.
+        grade:
+        date:
+        start_date: 2007-09
+        end_date: 2011-06
+        location: Bogotá, Colombia
+    peer-reviewed publications:
+      - title: Loss of macroevolutionary species fitness explains the rise and fall of clades
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
+          - '**Quintero, I.**'
+          - Andréoletti, J. 
+          - Silvestro, D. 
+          - Morlon, H. 
+        doi: 10.1038/s41559-025-02873-7
+        url:
+        journal: '*Nature Ecology & Evolution* **9**, 2346–2357'
+        date: 2025
+      - title: The diffused evolutionary dynamics of morphological novelty
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+          - '**Quintero, I. **'
+        doi: 10.1073/pnas.2425573122
+        url:
+        journal: '*Proceedings of the National Academy of Sciences* **122** (18) e2425573122'
+        date: 2025
+      - title: Imbalanced speciation pulses sustain the radiation of mammals
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - '**Quintero, I. **'
+          - Lartillot, N. 
+          - Morlon, H. 
+        doi: 10.1126/science.adj2793
+        url:
+        journal: '*Science* **384** 1007-1012'
+        date: 2024
+        media: 
+          - CNRS Biology Communication [link](https://www.insb.cnrs.fr/fr/cnrsinfo/les-mammiferes-ont-commence-se-diversifier-bien-avant-lextinction-des-dinosaures})
+          - Actualités École Normale Supérieure [link](https://www.ens.psl.eu/actualites/la-diversification-des-mammiferes-s-est-acceleree-bien-avant-l-extinction-des-dinosaures)
+      - title: Phylogenetic Insights into Diversification
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+          - Morlon, H. 
+          - Andréoletti, J. 
+          - Barido-Sottani, J. 
+          - Lambert, S. 
+          - Perez-Lamarque, B. 
+          - '**Quintero, I.**'
+          - Senderov, V.
+          - Veron, P.
+        doi: 10.1146/annurev-ecolsys-102722-020508
+        url:
+        journal: '*Annual Review of Ecology, Evolution, and Systematics* **55** 1-21'
+        date: 2024
+      - title: The build-up of the present-day tropical diversity in tetrapods
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+          - '**Quintero, I.**'
+          - Landis, M.J. 
+          - Jetz, W. 
+          - Morlon, H. 
+        doi: 10.1073/pnas.2220672120
+        url:
+        journal: '*Proceedings of the National Academy of Sciences* **120** (20) e2220672120'
+        date: 2023
+      - title: Population divergence associated with spatial asynchrony in precipitation in Neotropical frogs.
+        authors:
+          - Guarnizo, C.E. 
+          - Montoya, P. 
+          - '**Quintero, I.**'
+          - Cadena, C.D. 
+        doi: 10.1111/jbi.14484
+        url:
+        journal: '*Journal of Biogeography* **49** 2169–2180'
+        date: 2022
+      - title: Macroevolutionary dynamics of climatic niche space.
+        authors:
+          - '**Quintero, I.**'
+          - Suchard, M.A.
+          - Jetz, W.
+        doi: 10.1098/rspb.2022.0091
+        url:
+        journal: '*Proceedings of the Royal Society B* **289** 20220091' 
+        date: 2022
+      - title: Phylogenetic inference of where species spread or split across barriers.
+        authors:
+          - Landis, M.J. 
+          - '**Quintero, I.**'
+          - Muños, M.M.
+          - Zapata, F. 
+          - Donoghue, M.J. 
+        doi: 10.1073/pnas.2116948119
+        url:
+        journal: '*Proceedings of the National Academy of Sciences* **119** (13) e2116948119' 
+        date: 2022
+      - title: Nest architecture is linked with ecological success in songbirds.
+        authors:
+          - Medina, I.
+          - Perez, D.
+          - Silva, A.
+          - Cally, J.
+          - Leon, C. 
+          - Maliet, O.
+          - '**Quintero, I.**'
+        doi: 10.1111/ele.13998
+        url:
+        journal: '*Ecology Letters* **25** (6) 1365-1375'
+        date: 2022
+      - title: Global functional and phylogenetic structure of avian assemblages across elevation and latitude.
+        authors:
+          - Jarzyna, M.
+          - '**Quintero, I.**'
+          - Jetz, W.
+        doi: 10.1111/ele.13631
+        url:
+        journal: '*Ecology letters* **24** 196-207'
+        date: 2021
+      - title: Interdependent trait and biogeographic evolution driven by biotic interactions.
+        authors:
+          - '**Quintero, I.**'
+          - Landis, M.J.
+        doi: 10.1093/sysbio/syz082
+        url:
+        journal: '*Systematic Biology* **69** (4) 739-755'
+        date: 2020
+      - title: Global elevational diversity and diversification of birds.
+        authors:
+          - '**Quintero, I.**'
+          - Jetz, W.
+        doi: 10.1038/nature25794
+        url:
+        journal: '*Nature* **555** 246-250'
+        date: 2018
+      - title: Historical Biogeography Using Species Geographical Ranges.
+        authors:
+          - '**Quintero, I.**'
+          - Keil, P.
+          - Jetz, W.
+          - Crawford, F.W.
+        doi: 10.1093/sysbio/syv057
+        url:
+        journal: '*Systematic Biology* **64** (6) 1059-1073'
+        date: 2015
+      - title: Asynchrony of seasons*:* genetic differentiation associated with geographic variation in climatic seasonality and reproductive phenology.
+        authors:
+          - '**Quintero, I.**'
+          - Gonzáles-Caro, S.
+          - Zalamea, P.C.
+          - Cadena, C.D. 
+        doi: 10.1086/677261
+        url:
+        journal: '*The American Naturalist* **184** (3) 352-363'
+        date: 2014
+      - title: Rates of projected climate change dramatically exceed past rates of climatic niche evolution among vertebrate species.
+        authors:
+          - '**Quintero, I.**'
+          - Wiens. J.J.
+        doi: 10.1111/ele.12144
+        url:
+        journal: '*Ecology Letters* **16** (8) 1095-1103'
+        date: 2013
+      - title: What determines the climatic niche width of species?  The role of spatial and temporal climatic variation in three vertebrate clades.
+        authors:
+          - '**Quintero, I.**'
+          - Wiens. J.J.
+        doi: 10.1111/geb.12001
+        url:
+        journal: '*Global Ecology and Biogeography* **22** (4) 422-432'
+        date: 2013
+    Non-published preprints:
+      - title: The Occurrence Birth-Death Diffusion Process*:* Unraveling Diversification Histories with Fossils and Heterogeneous Rates.
+        authors:
+          - Andréoletti, J.
+          - '**Quintero, I.**'
+          - Morlon, H.
+        doi: 10.1101/2025.08.26.672414
+        url:
+        journal: '*bioRxiv*'
+        date: 2025
+      - title: The Occurrence Birth-Death Diffusion Process*:* Unraveling Diversification Histories with Fossils and Heterogeneous Rates.
+        authors:
+          - Sanchez, A.
+          - '**Quintero, I.**'
+          - Pedraza, S.
+          - Bonilla, D. 
+          - Lohmann, L.G. 
+          - Cadena, C.D. 
+          - Zapata, F. 
+        doi: 10.1101/2024.05.28.596313
+        url:
+        journal: '*bioRxiv*'
+        date: 2024
+    software:
+      - name: Tapestree.jl
+        date: 
+        start_date: 2022
+        end_date:
+        location:
+        summary: Unraveling the evolutionary tapestry*:* Tapestree is a Julia package of phylogenetic analyses of diversification, trait and biogeographic dynamics. [GitHub](https://github.com/ignacioq/Tapestree.jl)
+      - name: Introduction to Julia
+        date: 
+        start_date: 2019
+        end_date:
+        location:
+        summary: A quick introduction to Julia focusing on efficviency. [GitHub](https://github.com/ignacioq/julia_intro.jl)
+      - name: rase
+        date: 
+        start_date: 2015
+        end_date:
+        location:
+        summary: Range Ancestral State Estimation for Phylogeography and Comparative Analyses. R package version 0.3-2. [GitHub](https://github.com/ignacioq/rase)
+    Grants, Awards & Academic Distinctions:
+      - name: Tremplin-ERC StG from the Agence Nationale de Recherche (ANR)
+        date: 2023
+        start_date:
+        end_date:
+        location:
+        summary: project "The evolutionary tapestry*:* total-evidence interdependent models of species evolution" [€ 113,500]. 
+      - name: The Australia and Pacific Science Foundation
+        date: 2020
+        start_date:
+        end_date:
+        location:
+        summary: project "Are open nests a key evolutionary innovation in birds?" with Iliana Medina [AUD 29,878]. 
+      - name: Marie Sklodowska-Curie Action (MSCA-IF-2019)
+        date: 2019
+        start_date:
+        end_date:
+        location:
+        summary: project "INSANE Joint Species And Niche Evolution" [€ 184,707.84]. 
+      - name: Yale's John Spangler Nicolas prize
+        date: 2019
+        start_date:
+        end_date:
+        location:
+        summary: for the best PhD Dissertation by an Ecology and Evolutionary Biology student [US$ 500]. 
+      - name: Graduate Research Fellowship Program (GRFP) from the National Science Foundation (NSF)
+        date: 2014
+        start_date:
+        end_date:
+        location:
+        summary: PhD "The Evolutionary Tapestry*:* Insights on the Processes Behind the Origin and Maintenance of Biodiversity" [US$ 138,000]. 
+      - name: Graduate Student Research Award from the Society of Systematic Biologists (SSB)
+        date: 2014
+        start_date:
+        end_date:
+        location:
+        summary: project "integrating species ranges into phylogeographic models" [US$ 2,000] 
+      - name: 4th absolute place in Biological Sciences of 2010 nationally in Colombia's Graduate State Exam
+        date: 2010
+        start_date:
+        end_date:
+        location:
+        summary: Examen de Estado de calidad de la Educación Superior SABER PRO (antes ECAES), Colombia.
+      - name: 1st group nationally at Colombia's State Exam 
+        date: 2007
+        start_date:
+        end_date:
+        location:
+        summary: Examen de Estado Para Ingreso a la Educación Superior, ICFES, Colombia.
+    skills:
+      - label: Programming
+        details: Julia, R, Python, Git, bash, LaTex, Stan, INLA, GDAL
+      - label: Languages
+        details: Spanish (native), English (fluent), French (C1)
+    Invited talks & Academic Meetings:
+      - name: Invited lecturer Western Biology Evolution Seminar Series (WBESS)
+        date: 2026
+        start_date:
+        end_date:
+        location: Online Seminar series
+        summary: Imbalanced diversification sustain the rise, decline and fall of clades.       
+      - name: Invited lecturer at Spherical cows and bipedal goats*:* perspectives on mathematical models in biology
+        date: 2025
+        start_date:
+        end_date:
+        location: École Normale Supérieure, Paris, France
+        summary: Environmental controls on evolutionary dynamics using interdependent models. 
+      - name: Invited lecturer at the Chaire of the Mathematical Modelling and Biodiversity (MMB)
+        date: 2025
+        start_date:
+        end_date:
+        location: Collége de France, Paris, France
+        summary: Imbalanced diversification sustain the rise, decline and fall of clades. 
+      - name: Invited lecturer at the Seminar Series of the Centre de Recherches en Paléontologie (CR2P)
+        date: 2025
+        start_date:
+        end_date:
+        location: Muséum National d'Histoire Naturelle, Paris, France
+        summary: The rise, decline and fall of biodiversity. 
+      - name: Congress of the European Society for Evolutionary Biology (ESEB)
+        date: 2025
+        start_date:
+        end_date:
+        location: Barcelona, Spain
+        summary: 1st talk*:* The rise, decline and fall of biodiversity. 2st talk*:* The diffused evolutionary dynamics of morphological novelty.
+      - name: Invited lecturer by the PhDs and Postdocs at the Center for Macroecology, Evolution, and Climate (CMEC)
+        date: 2025
+        start_date:
+        end_date:
+        location: University of Copenhagen, Denmark
+        summary: The rise, decline and fall of biodiversity.
+      - name: Invited lecturer at the BioGeoPhylo Workshop
+        date: 2025
+        start_date:
+        end_date:
+        location: Aix-Marseille University, Luma Arles, Arles, France
+        summary: On the effects of regional environment and modes of diversification.
+      - name: Invited lecturer at the Seminar Series of the Department of Computational Biology
+        date: 2025
+        start_date:
+        end_date:
+        location: University of Lausanne, Switzerland
+        summary: The rise, decline and fall of biodiversity.
+      - name: Invited lecturer at the Seminar Series Department of Biosciences
+        date: 2024
+        start_date:
+        end_date:
+        location: Durham University, UK
+        summary: The rise, decline and fall of clades.
+      - name: Invited lecturer at L’Institut Diversité, Écologie et Évolution du Vivant (IDEEV)
+        date: 2024
+        start_date:
+        end_date:
+        location: Université Paris-Saclay, Gif-sur-Yvette, France
+        summary: Imbalanced speciation pulses sustain the radiation of mammals.
+      - name: Speciation Gordon Research Seminar and Conference
+        date: 2023
+        start_date:
+        end_date:
+        location: Renaissance Tuscany Il Ciocco in Lucca (Barga), Lucca, Italy
+        summary: The birth-death diffusion leading to present-day Mammal diversity.
+      - name: Invited lecturer at the Ecology Seminar Series of  the Department of Ecology and Evolution
+        date: 2022
+        start_date:
+        end_date:
+        location: (online) Texas A&M University-Corpus Christi, TX, USA
+        summary: Insights into the processes behind the origin and maintenance of biodiversity.
+      - name: MCEB*:* Mathematical and Computational Evolutionary Biology
+        date: 2021
+        start_date:
+        end_date:
+        location: Porquerolles, France
+        summary: Incorporating latent stochasticity into environmental, state dependent and general birth-death models.
+      - name: Guest lecturer at Sebastian Höhna's lab seminar
+        date: 2020
+        start_date:
+        end_date:
+        location: (online) Ludwig-Maximilians-Universität, Munich, Germany
+        summary: Interdependent trait evolution with diversification and with biogeography.
+      - name: AEEB *:* Evolutionary Biology Meeting at Marseille
+        date: 2019
+        start_date:
+        end_date:
+        location: Marseille, France
+        summary: Effect of fluctuating environment on spatial diversification.
+      - name: Invited lecturer at the seminar series on Biodiversity
+        date: 2019
+        start_date:
+        end_date:
+        location: Swiss Federal Research Institute, WLS, Birmensdorf, Switzerland
+        summary: Insights on the processes behind the origin and maintenance of biodiversity.
+      - name: International Society of Biogeography Biannual Meeting
+        date: 2019
+        start_date:
+        end_date:
+        location: Malaga, Spain
+        summary: Interdependent trait and biogeographic evolution driven by biotic interactions.
+      - name: Evolution Annual Meeting
+        date: 2016
+        start_date:
+        end_date:
+        location: Austin, TX, USA
+        summary: Global altitudinal biodiversity of birds.
+      - name: Ecological Society of America Annual Meeting
+        date: 2014
+        start_date:
+        end_date:
+        location: Sacramento, CA, USA
+        summary: Identifying the evolutionary and geographical underpinnings of global avian mountain biodiversity.
+      - name: Phylotastic Hackathon
+        date: 2013
+        start_date:
+        end_date:
+        location: Tucson, AZ, USA
+        summary: www.phylotastic.org.
+      - name: International Society of Biogeography Biannual Meeting
+        date: 2013
+        start_date:
+        end_date:
+        location: Miami, FL, USA
+        summary: Variation in avian diversification rate, species richness and elevation across mountain systems.
+      - name: Smithsonian Tropical Research Institute BCI Talk
+        date: 2012
+        start_date:
+        end_date:
+        location: BCI Island, Panamá
+        summary: Asynchrony of Seasons*:* population differentiation resulting from spatial heterogeneity in climatic regimes?
+      - name: III Symposium of Evolutionary Biology
+        date: 2011
+        start_date:
+        end_date:
+        location: Medellín, Colombia
+        summary: Asynchrony of Seasons*:* population differentiation resulting from spatial heterogeneity in climatic regimes?
+    Supervision:
+      - name: Master (M1) student Hugo Girault  
+        date: 
+        start_date: 2026-04
+        end_date: 2026-07
+        location: IBENS, Paris, France
+        summary:
+      - name: Thesis director of doctoral researcher Paul Leroux   
+        date:
+        start_date: 2026-01
+        end_date:
+        location: IBENS, Paris, France
+        summary:
+      - name: PhD defense jury for Sami Touafchia
+        date: 2025-12
+        start_date:
+        end_date:
+        location: Muséum National d’Histoire Naturel, Paris, France 
+        summary: 
+      - name: Master (M1) student Niya Ren
+        date:
+        start_date: 2025-03
+        end_date: 2025-06
+        location: IBENS, Paris, France 
+        summary:
+      - name: PostDoc Dr. Olivia Price
+        date:
+        start_date: 2024-10
+        end_date: 2026-03
+        location: IBENS, Paris, France 
+        summary: 
+      - name: Master (M2) student Thomas Merrien
+        date:
+        start_date: 2021-03
+        end_date: 2021-07
+        location: IBENS, Paris, France 
+        summary: 
+      - name: Master (M2) student Clio Dalmaz
+        date:
+        start_date: 2019-11
+        end_date: 2020-02
+        location: IBENS, Paris, France 
+        summary: 
+      - name: Undergraduate students Benjamin Kemplay & Adam Houston
+        date: 2015
+        start_date: 
+        end_date: 
+        location: Yale University, CT, USA 
+        summary: 
+    service as reviewer:
+      - Nature, PNAS, Ecology Letters, Proceedings of the Royal Society B, Nature Ecology and Evolution, Nature Communications, Systematic Biology, Evolution, Journal of Animal Ecology, Evolutionary Ecology, PLoS One, NSF research grants. [Publons](https://publons.com/researcher/1270349/ignacio-quintero/)
+    workshops & teaching:
+      - name: Introduction to probabilistic inference of Phylogenetic Comparative Methods (PCM) using Julia 2ed
+        date: 2025
+        start_date: 
+        end_date: 
+        location: online
+        summary: 6-days online workshop through [Transmitting Science](https://www.transmittingscience.com/courses/evolution/introduction-to-probabilistic-inference-of-phylogenetic-comparative-methods-pcm-using-julia/).
+      - name: Introduction to Diversification models
+        date: 2025
+        start_date: 
+        end_date: 
+        location: Université Paris Cité, Paris, France
+        summary: Part of Master's course with Dr. Didier Casane.
+      - name: Diversification models
+        date: 2024
+        start_date: 
+        end_date: 
+        location: Université Paris Cité, Paris, France
+        summary: part of module ACP, EvoGEM coordinated by Dr. Guillaume Achaz & Dr. Paul Zaharias.
+      - name: Introduction to probabilistic inference of Phylogenetic Comparative Methods (PCM) using Julia 1ed
+        date: 2023
+        start_date: 
+        end_date: 
+        location: online
+        summary: 5-days online workshop through [Transmitting Science](https://www.transmittingscience.com/courses/evolution/introduction-to-probabilistic-inference-of-phylogenetic-comparative-methods-pcm-using-julia/).  
+      - name: Basic Introduction to Julia
+        date: 2022
+        start_date: 
+        end_date: 
+        location: (online) Vancouver, Canada
+        summary: Workshop for the 10th Biennial conference of the International Biogeography Society.
+      - name: Understanding macroevolutionary dynamics using RANDA and JPANDA
+        date: 2022
+        start_date: 
+        end_date: 
+        location: online
+        summary: 1-day online workshop through [Transmitting Science](https://www.transmittingscience.com/courses/evolution/understanding-macroevolutionary-dynamics-using-rpanda-and-jpanda/) with Dr. H. Morlon. 
+      - name: Introduction to Historical Biogeography
+        date: 2021
+        start_date: 
+        end_date: 
+        location: online
+        summary: part of Master course "Biology of Ecological Systems (Biologie des Systèmes Écologiques)".
+      - name: Julia Practical
+        date: 2021
+        start_date: 
+        end_date: 
+        location: École Normale Supérieure, Paris, France
+        summary: part of Master course "Computational Biology"
+      - name: Introduction to Historical Biogeography
+        date: 2020
+        start_date: 
+        end_date: 
+        location: (online) École Normale Supérieure, Paris, France
+        summary: part of Master course "Biology of Ecological Systems (Biologie des Systèmes Écologiques)".
+      - name: Introduction to Historical Biogeography
+        date: 2020
+        start_date: 
+        end_date: 
+        location: (online) Laboratoire d'Ecologie Alpine (LECA), Grenoble, France.
+        summary: Gradiate level course "EcoSum*:* Ecological Models and Beyond".
+      - name: Introduction to Julia
+        date: 2017
+        start_date: 
+        end_date: 
+        location: Yale University, CT, USA
+        summary: Yale Center for Research Computing [Bootcamp](https://research.computing.yale.edu/training/ycrc-bootcamps/ycrc-bootcamp-introduction-julia).
+      - name: Teaching Fellow for Evolutionary Biology
+        date: 2015
+        start_date: 
+        end_date: 
+        location: Yale University, CT, USA
+        summary: Professor*:* Dr. J. Powell and Dr. S. Stearns.
+      - name: Guest Lecturer for Introductoery Statistics*:* Life Sciences
+        date: 2014
+        start_date: 
+        end_date: 
+        location: Yale University, CT, USA
+        summary: Introduction to Likelihood and Bayesian Inference. Professor*:* Dr. W. Jetz.
+      - name: Teaching Fellow for Introductory Statistics*:* Life Sciences
+        date: 2014
+        start_date: 
+        end_date: 
+        location: Yale University, CT, USA
+        summary: Professor*:* Dr. W. Jetz.
+      - name: Teaching Fellow for General Ecology
+        date: 2014
+        start_date: 
+        end_date: 
+        location: Yale University, CT, USA
+        summary: Professors*:* Dr. D. Post & Dr. D. Vasseur.
+      - name: Teaching Assistant for Vertebrates Theory Class
+        date: 2011
+        start_date: 
+        end_date: 
+        location: Universidad de los Andes, Bogotá, Colombia
+        summary: Professors*:* Dr. C.D. Cadena.
+      - name: Teaching Assistant for Animal Physioogy Laboratory
+        date: 2010
+        start_date: 
+        end_date: 
+        location: Universidad de los Andes, Bogotá, Colombia
+        summary: Professors*:* Dr. A. Amézquita.
+    reference contacts:
+      - bullet: Hélène Morlon. CNRS research director, IBENS, École Normale Supérieure, UMR 8197 CNRS. 46 rue d'Ulm, 75005 Paris, France. [e-mail](mailto:helene.morlon@bio.ens.psl.eu). +33 (0)1 44 32 35 35.
+      - bullet: Michael Landis. Associate Professor, Department of Biology, Washington University in St. Louis. One Brookings Dr., 63130 St. Louis, MO, USA. [e-mail](mailto:michael.landis@wustl.edu). +1 (314) 935 8082.      
+      - bullet: Walter Jetz. Associate Professor, Department of Ecology and Evolutionary Biology, Yale University. 165 Prospect St., 06511 New Haven, CT, USA. [e-mail](mailto:walter.jetz@yale.edu). +1 (203) 432 7540.
+      - bullet: Carlos Daniel Cadena. Professor, Departamento de Ciencias Biológicas, Universidad de los Andes. Cra. 1 No. 18a-12, 111711 Bogotá Colombia [e-mail](mailto:ccadena@uniandes.edu.co). +57 (1) 339 4949 ext. 2072.
+design:
+  theme: sb2nov
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: New Computer Modern
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: false
+  header:
+    name_font_family: New Computer Modern
+    name_font_size: 30pt
+    name_bold: true
+    small_caps_for_name: false
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: New Computer Modern
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    use_urls_as_placeholders_for_connections: false
+    make_connections_links: true
+    alignment: center
+  section_titles:
+    type: with-full-line
+    font_family: New Computer Modern
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: ◦
+    nested_bullet: '-'
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: |-
+        **INSTITUTION**
+        *DEGREE in AREA*
+      degree_column_template:
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      main_column_first_row_template: |-
+        **POSITION**
+        *COMPANY*
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        JOURNAL URL
+        MEDIA
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE        
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-10-28'
+  bold_keywords: []
+  sort_entries: none
