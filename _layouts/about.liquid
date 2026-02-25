@@ -1,9 +1,21 @@
 ---
 layout: default
 ---
+
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">
+
+    {% if page.header_image %}  
+      <div class="about-header-image position-relative mb-3">  
+        {% include figure.liquid path=page.header_image class="img-fluid" alt="About header image" %}  
+        {% if page.header_text %}  
+          <div class="about-header-text position-absolute w-100 text-center text-black" style="top: 50%; left: 50%; transform: translate(-50%, -50%);">  
+            <h3 class="mb-0">{{ page.header_text }}</h3>  
+          </div>  
+        {% endif %}  
+      </div>  
+    {% endif %}
+<!--     <h1 class="post-title">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
@@ -11,7 +23,7 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    <p class="desc">{{ page.subtitle }}</p> -->
   </header>
 
   <article>

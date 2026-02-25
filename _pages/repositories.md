@@ -1,47 +1,33 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: software
+description: 
 nav: true
 nav_order: 4
 ---
 
-{% if site.data.repositories.github_users %}
 
-## GitHub users
+### Tapestree
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
+<div class="row">  
+  <div class="col-sm-2 mt-4 mt-md-0">  
+    <img class="only-light" src="/assets/img/logo_light.png" style="width: 120px; height: auto;">  
+    <img class="only-dark" src="/assets/img/logo_dark.png" style="width: 120px; height: auto;">  
+  </div>  
+  <div class="col-sm-8 mt-4 mt-md-2">  
+    <p> Unravelling the evolutionary tapestry: <a href="https://github.com/ignacioq/Tapestree.jl" target="_blank">Tapestree.jl</a> is a <a href="https://julialang.org" target="_blank">Julia</a> package of phylogenetic analyses of diversification, trait and biogeographic dynamics. This is the main and active software package where we are implementing most of our developments. See the package <a href="https://ignacioq.github.io/Tapestree.jl/stable/" target="_blank">Documentation</a> for tutorials and details on how to use it. </p>  
+  </div>  
 </div>
 
 ---
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+### Other projects
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
+##### Julia introduction
 
----
+[A basic introduction to Julia](https://github.com/ignacioq/julia_intro) focused on efficiency.
 
-{% endfor %}
-{% endif %}
-{% endif %}
+##### rase
 
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+[rase: Range Ancestral State Estimation](https://github.com/ignacioq/rase). This is the repository for the `rase` package for R. 

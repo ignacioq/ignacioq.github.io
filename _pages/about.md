@@ -2,33 +2,36 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+header_image: /assets/img/snsm.jpg
+header_text: Inquiries into Evolutionary Dynamics
+
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: rigth
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+    <p>Ignacio Quintero Mächler</p>
+    <p>IBENS</p>
+    <p>École Normale Supérieure   </p>
+    <p> 46 Rue d'Ulm </p>
+    <p>75005 Paris</p>
+    <p>+33 (0)1 44 32 35 35</p>
+    <p>ignacio.quintero[at]cnrs.fr</p>
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the news in the `_news` folder
 ---
+<style>  
+@media (min-width: 576px) {  
+  .profile.float-right + .clearfix { margin-left: 0%;  margin-right: 30%;}  
+}  
+</style>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+We investigate the evolutionary processes that generate variation in **biodiversity** across time, space and taxa. Without direct experimentation, inference must resort to models that piece together fragmentary evidence. In our group we design and develop process-based models ensuing from evolutionary hypotheses, to then examine them across empirical systems under formal probabilistic frameworks. Specifically, we use and implement **phylogenetic methods** combining **fossil and extant species** to infer diversification, trait and biogeographic histories, and advance a more mechanistic understanding about the origin and maintenance of biodiversity.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+We are part of the group [Modelling biodiversity group](https://www.phyloeco.bio.ens.psl.eu) at the [Institut de Biologie de l'École Normale Supérieure (IBENS)](https://www.ibens.bio.ens.psl.eu) in Paris, France.

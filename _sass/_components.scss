@@ -2,6 +2,28 @@
  * Reusable component styles: Cards, captions, profiles, etc.
  ******************************************************************************/
 
+
+.about-header-image {  
+  width: 100vw;  
+  margin-left: calc(-50vw + 50%);  
+  img {  
+    width: 100%;  
+    height: auto;  
+  }  
+}
+
+.about-header-text {  
+  h3 {  
+    font-size: 2.3rem; // Larger size  
+    color: #36454f; // Custom color example  
+  }  
+}
+
+.social i {  
+  font-size: 0.5em;  
+  margin: 0 0.3em; // Adjust spacing if needed  
+}
+
 // Checklist
 
 ul.task-list {
@@ -88,6 +110,29 @@ ul.task-list input[type="checkbox"] {
       }
     }
   }
+}
+
+
+.profile-section-header {  
+  margin-top: 3rem;  
+  margin-bottom: 0rem;  
+  padding-bottom: 0rem;  
+}
+
+.profile {  
+  max-width: 230px;  
+  margin-left: auto;  
+  margin-right: auto;  
+  img {  
+    width: 90%;  
+    height: auto;  
+    margin-left: auto;  
+    margin-right: auto; 
+  }  
+}
+
+.profile .more-info {  
+  font-size: 0.85rem; // Adjust as needed  
 }
 
 // CV

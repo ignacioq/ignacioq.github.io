@@ -2,27 +2,47 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description:
 nav: true
-nav_order: 7
+nav_order: 2
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: ignacioquintero.jpg
+    content: about_ignacioquintero.md
+    image_circular: false # crops the image to make it circula
+    header: "Current members"
+    more_info: >
+      <p><a href="mailto:ignacio.quintero@cnrs.fr"><i class="fa-solid fa-envelope"></i></a></p
+      <p><a href="/assets/pdf/quintero_cv.pdf"><i class="ai ai-cv"></i></a></p>
+  - align: left
+    image: oliviaprice.jpg
+    content: about_oliviaprice.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><a href="mailto:price@bio.ens.psl.eu"><i class="fa-solid fa-envelope"></i></a></p>
+  - align: left
+    image: paulleroux.jpg
+    content: about_paulleroux.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><a href="mailto:pleroux@bio.ens.psl.eu"><i class="fa-solid fa-envelope"></i></a></p>
+  - align: left
+    image: hugogirault.jpg
+    content: about_hugogirault.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p><a href="mailto:hugo.girault@etu.umontpellier.fr"><i class="fa-solid fa-envelope"></i></a></p>
+  - align: left
+    image: vildebruhnkinneberg.jpeg
+    content: about_vildebruhnkinneberg.md
+    image_circular: false # crops the image to make it circular
+    header: "Visiting members"
+    more_info: >
+      <p><a href="mailto:v.b.kinneberg@nhm.uio.no"><i class="fa-solid fa-envelope"></i></a></p>
+  - align: left
+    image: niyaren.jpeg
+    content: about_niyaren.md
+    image_circular: false # crops the image to make it circular
+    header: "Past group members"
 ---
