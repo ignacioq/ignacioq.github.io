@@ -26,12 +26,12 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 ---
-<style>  
+<!-- <style>  
 @media (min-width: 576px) {  
   .profile.float-right + .clearfix { margin-left: 0%;  margin-right: 30%;}  
 }  
 </style>
-
+ -->
 We investigate the evolutionary processes that generate variation in **biodiversity** across time, space and taxa. Without direct experimentation, inference must resort to models that piece together fragmentary evidence. In our group we design and develop process-based models ensuing from evolutionary hypotheses, to then examine them across empirical systems under formal probabilistic frameworks. Specifically, we use and implement **phylogenetic methods** combining **fossil and extant species** to infer diversification, trait and biogeographic histories, and advance a more mechanistic understanding about the origin and maintenance of biodiversity.
 
 We are part of the group [Modelling biodiversity group](https://www.phyloeco.bio.ens.psl.eu) at the [Institut de Biologie de l'École Normale Supérieure (IBENS)](https://www.ibens.bio.ens.psl.eu) in Paris, France.
