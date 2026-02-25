@@ -26,6 +26,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 3 # leave blank to include all the news in the `_news` folder
 ---
+
 <style>  
 @media (min-width: 576px) {  
   .profile.float-right + .clearfix { margin-left: 0%;  margin-right: 30%;}  
