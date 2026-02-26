@@ -4,6 +4,27 @@
 
 @use "variables" as v;
 
+/* Remove space above header image */  
+.about-header-image {  
+  margin-top: 0;  
+  padding-top: 0;  
+}  
+.post-header {  
+  margin-top: 0;  
+  padding-top: 0;  
+}
+
+body.about.container.mt-5 {  
+  margin-top: 0;  
+}  
+
+.container.mt-5 {  
+  margin-top: 0 !important;  
+}  
+body.fixed-top-nav .container.mt-5 {  
+  margin-top: 0;  
+}
+
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
