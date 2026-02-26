@@ -33,6 +33,6 @@ announcements:
 }  
 </style>
 
-We investigate the evolutionary processes that generate variation in **biodiversity** across time, space and taxa. Without direct experimentation, inference must resort to models that piece together fragmentary evidence. In our group, we design and develop probabilistic models based on evolutionary hypotheses, and examine them across empirical systems. Specifically, we use and implement **phylogenetic methods** combining **fossil and extant species** to infer the tempo and mode of diversification, trait and biogeographic evolution, to advance a more mechanistic understanding about the origin and maintenance of biodiversity.
+We investigate the evolutionary processes that generate variation in **biodiversity** across time, space and taxa. Without direct experimentation, inference must resort to models that piece together fragmentary evidence. In our group, we design and develop probabilistic models based on evolutionary hypotheses, and examine them across empirical systems. Specifically, we use and implement **phylogenetic methods** combining **fossil and extant species** to infer the tempo and mode of diversification, trait and biogeographic evolution, to advance a more mechanistic understanding about the rise, decline and fall of biodiversity.
 
 We are part of the group [Modélisation de la biodiversité](https://www.phyloeco.bio.ens.psl.eu) at the [Institut de Biologie de l'École Normale Supérieure (IBENS)](https://www.ibens.bio.ens.psl.eu) in Paris, France.
