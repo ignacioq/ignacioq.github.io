@@ -19,7 +19,7 @@ profile:
     <p> 46 Rue d'Ulm </p>
     <p>75005 Paris</p>
     <p>+33 (0)1 44 32 35 35</p>
-    <p>ignacio.quintero[at]cnrs.fr</p>
+    <p>ignacio.quintero@cnrs.fr</p>
 
 announcements:
   enabled: true # includes a list of news items
