@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-06'
 papers:
   q4J3GXAAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -46,7 +46,7 @@ papers:
     title: Loss of macroevolutionary species fitness explains the rise and fall of clades
     year: '2025'
   q4J3GXAAAAAJ:XiSMed-E-HIC:
-    citations: 392
+    citations: 394
     title: Global elevational diversity and diversification of birds
     year: '2018'
   q4J3GXAAAAAJ:d1gkVwhDpl0C:
@@ -106,6 +106,6 @@ papers:
     title: Global functional and phylogenetic structure of avian assemblages across elevation and latitude
     year: '2021'
   q4J3GXAAAAAJ:zA6iFVUQeVQC:
-    citations: 54
+    citations: 55
     title: 'Asynchrony of seasons: genetic differentiation associated with geographic variation in climatic seasonality and reproductive phenology'
     year: '2014'
