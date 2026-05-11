@@ -16,12 +16,6 @@ profiles:
       <p><a href="mailto:ignacio.quintero@cnrs.fr"><i class="fa-solid fa-envelope"></i></a></p
       <p><a href="/assets/pdf/quintero_cv.pdf"><i class="ai ai-cv"></i></a></p>
   - align: left
-    image: oliviaprice.jpg
-    content: about_oliviaprice.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><a href="mailto:price@bio.ens.psl.eu"><i class="fa-solid fa-envelope"></i></a></p>
-  - align: left
     image: paulleroux.jpg
     content: about_paulleroux.md
     image_circular: false # crops the image to make it circular
@@ -41,8 +35,12 @@ profiles:
     more_info: >
       <p><a href="mailto:v.b.kinneberg@nhm.uio.no"><i class="fa-solid fa-envelope"></i></a></p>
   - align: left
+    image: oliviaprice.jpg
+    content: about_oliviaprice.md
+    image_circular: false # crops the image to make it circular
+    header: "Past group members"
+  - align: left
     image: niyaren.jpeg
     content: about_niyaren.md
     image_circular: false # crops the image to make it circular
-    header: "Past group members"
 ---
