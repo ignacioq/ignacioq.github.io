@@ -22,12 +22,6 @@ profiles:
     more_info: >
       <p><a href="mailto:pleroux@bio.ens.psl.eu"><i class="fa-solid fa-envelope"></i></a></p>
   - align: left
-    image: hugogirault.jpg
-    content: about_hugogirault.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p><a href="mailto:hugo.girault@etu.umontpellier.fr"><i class="fa-solid fa-envelope"></i></a></p>
-  - align: left
     image: vildebruhnkinneberg.jpeg
     content: about_vildebruhnkinneberg.md
     image_circular: false # crops the image to make it circular
