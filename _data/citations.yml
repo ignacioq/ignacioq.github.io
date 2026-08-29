@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-08-26'
 papers:
   q4J3GXAAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: "Supplementary Information for \u2018The diffused evolutionary"
     year: Unknown Year
   q4J3GXAAAAAJ:4fKUyHm3Qg0C:
-    citations: 38
+    citations: 41
     title: Nest architecture is linked with ecological success in songbirds
     year: '2022'
   q4J3GXAAAAAJ:5Ul4iDaHHb8C:
@@ -26,13 +26,9 @@ papers:
     title: 'Caldas meets Janzen: Thermal regimes of montane plants and implications for global patterns of speciation'
     year: '2024'
   q4J3GXAAAAAJ:J-pR_7NvFogC:
-    citations: 0
+    citations: 1
     title: Integrating Earth history into phylogenetic diversification models
     year: '2026'
-  q4J3GXAAAAAJ:K3LRdlH-MEoC:
-    citations: 0
-    title: Elevational gradients in avian functional and trait diversity
-    year: '2018'
   q4J3GXAAAAAJ:LPZeul_q3PIC:
     citations: 5
     title: Population divergence associated with spatial asynchrony in precipitation in Neotropical frogs
@@ -42,31 +38,31 @@ papers:
     title: SOCIETY OF SYSTEMATIC BIOLOGISTS ANNOUNCEMENTS
     year: '2014'
   q4J3GXAAAAAJ:UxriW0iASnsC:
-    citations: 67
+    citations: 69
     title: Historical biogeography using species geographical ranges
     year: '2015'
   q4J3GXAAAAAJ:V3AGJWp-ZtQC:
-    citations: 4
+    citations: 6
     title: Loss of macroevolutionary species fitness explains the rise and fall of clades
     year: '2025'
   q4J3GXAAAAAJ:XiSMed-E-HIC:
-    citations: 400
+    citations: 415
     title: Global elevational diversity and diversification of birds
     year: '2018'
   q4J3GXAAAAAJ:d1gkVwhDpl0C:
-    citations: 438
+    citations: 450
     title: Rates of projected climate change dramatically exceed past rates of climatic niche evolution among vertebrate species
     year: '2013'
   q4J3GXAAAAAJ:eJXPG6dFmWUC:
-    citations: 30
+    citations: 32
     title: Imbalanced speciation pulses sustain the radiation of mammals
     year: '2024'
   q4J3GXAAAAAJ:eflP2zaiRacC:
-    citations: 53
+    citations: 61
     title: Phylogenetic insights into diversification
     year: '2024'
   q4J3GXAAAAAJ:fQNAKQ3IYiAC:
-    citations: 39
+    citations: 44
     title: The build-up of the present-day tropical diversity of tetrapods
     year: '2023'
   q4J3GXAAAAAJ:kRWSkSYxWN8C:
@@ -74,7 +70,7 @@ papers:
     title: Imbalanced speciation pulses sustain the radiation of
     year: Unknown Year
   q4J3GXAAAAAJ:l7t_Zn2s7bgC:
-    citations: 58
+    citations: 61
     title: Interdependent Phenotypic and Biogeographic Evolution Driven by Biotic Interactions
     year: '2020'
   q4J3GXAAAAAJ:mvPsJ3kp5DgC:
@@ -82,19 +78,19 @@ papers:
     title: 'The Occurrence Birth-Death Diffusion Process: Unraveling Diversification Histories with Fossils and Heterogeneous Rates'
     year: '2025'
   q4J3GXAAAAAJ:q3oQSFYPqjQC:
-    citations: 8
+    citations: 9
     title: The diffused evolutionary dynamics of morphological novelty
     year: '2025'
   q4J3GXAAAAAJ:sSrBHYA8nusC:
-    citations: 29
+    citations: 34
     title: Phylogenetic inference of where species spread or split across barriers
     year: '2022'
   q4J3GXAAAAAJ:tOudhMTPpwUC:
-    citations: 1
+    citations: 2
     title: Allochronic Divergence Driven by Spatial Asynchrony in Precipitation in Neotropical Frogs?
     year: '2020'
   q4J3GXAAAAAJ:tS2w5q8j5-wC:
-    citations: 14
+    citations: 15
     title: Macroevolutionary dynamics of climatic niche space
     year: '2022'
   q4J3GXAAAAAJ:u-x6o8ySG0sC:
@@ -106,10 +102,10 @@ papers:
     title: CORRIGENDUM Corrigendum to Quintero & Wiens (2013)
     year: Unknown Year
   q4J3GXAAAAAJ:vRqMK49ujn8C:
-    citations: 137
+    citations: 147
     title: Global functional and phylogenetic structure of avian assemblages across elevation and latitude
     year: '2021'
   q4J3GXAAAAAJ:zA6iFVUQeVQC:
-    citations: 55
+    citations: 56
     title: 'Asynchrony of seasons: genetic differentiation associated with geographic variation in climatic seasonality and reproductive phenology'
     year: '2014'
