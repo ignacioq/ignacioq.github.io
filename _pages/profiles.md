@@ -35,10 +35,14 @@ profiles:
     more_info: >
       <p><a href="mailto:v.b.kinneberg@nhm.uio.no"><i class="fa-solid fa-envelope"></i></a></p>
   - align: left
+    image: hugogirault.jpg
+    content: about_hugogirault.md
+    image_circular: false # crops the image to make it circular
+    header: "Past group members"
+  - align: left
     image: oliviaprice.jpg
     content: about_oliviaprice.md
     image_circular: false # crops the image to make it circular
-    header: "Past group members"
   - align: left
     image: niyaren.jpeg
     content: about_niyaren.md
